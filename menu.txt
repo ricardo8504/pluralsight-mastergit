@@ -3,3 +3,19 @@
 - Jugo de mango, mora ó tomate de arbol
 - Papas a las francesa
 - Platano calado
+-----------------------------
+Ajiaco
+-Pollo
+-Papas
+-Crema de leche
+-----------------------------
+Menu del dia
+-Sopa papa criolla
+-Pastas
+----------------------------
+Menu semanal
+-Lunes -|Ajiaco
+-Martes - Criollo
+-Miercoles -- bandeja
+-Jueves
+-Viernes
